@@ -1,0 +1,13 @@
+
+Hello!
+I am writing this to create a sample text.
+I want to practice writing in C# and using IO operations.
+I really enjoy coding! 
+Today I learned so many cool things, and I really need to do well.
+What can I do?
+Make a list of things that I should do and do them all!
+I need to achieve my dreams.
+Just make a good plan and keep doing what I have been doing.
+I will do well. I can do well.
+I got this.
+Thanks!!!!
