@@ -16,8 +16,10 @@ namespace FaceDetect
         static void Main(string[] args)
         {
             // Command line arguments
+            // get this from the Keys and Endpoint in the Resource Management Left Pane
             var apiKey = !string.IsNullOrWhiteSpace(args[0]) ? args[0] : throw new ArgumentException(msg, args[0]);
             var filename = File.Exists(args[1]) ? args[1] : throw new FileNotFoundException(msg, args[1]);
+            // this is the resource name for the Cognitive Services Face app
             var resourceName = args[2];
 
             // Call HTTP API
